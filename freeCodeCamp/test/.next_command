@@ -281,3 +281,5 @@ cd website
 ls --color=auto
 touch client/assets/fonts/lato-light.ttf
 find
+rm -help
+rm --help
