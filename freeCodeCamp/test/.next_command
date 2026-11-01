@@ -290,3 +290,4 @@ touch package.json
 touch server.js
 ls --color=auto
 touch README.md
+ls --color=auto
