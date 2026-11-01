@@ -155,3 +155,4 @@ mv index.html src
 cd ..
 ls --color=auto
 mv index.html client/src
+find
