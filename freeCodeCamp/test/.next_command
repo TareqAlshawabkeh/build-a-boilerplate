@@ -203,3 +203,6 @@ touch header.png
 ls --color=auto
 mv header.png client/assests/images
 mv header.png client/assets/images
+fins header.png
+find header.png
+find -name header.png
