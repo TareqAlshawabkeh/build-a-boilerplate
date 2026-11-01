@@ -147,3 +147,11 @@ mv menlo.otf fonts
 find
 mkdir client
 mkdir client/src
+mv index.html client
+mv index.html client/src
+cd client
+ls --color=auto
+mv index.html src
+cd ..
+ls --color=auto
+mv index.html client/src
